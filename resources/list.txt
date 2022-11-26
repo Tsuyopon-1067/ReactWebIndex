@@ -1,0 +1,52 @@
+most
+    Google
+    gmail
+    map
+    youtube
+    photo
+    keep
+    twitter
+    Deepl
+    livecampus
+    weather
+    transport
+Google
+    Google
+    Mail
+    map
+    youtube
+    photo
+    drive
+    keep
+    searchphone
+    docs
+SNS
+    Twitter
+    Instagram
+Util
+    DeepL
+    Geogebra
+    entetu
+typing
+    etyping
+    mytyping
+    sushida
+    poptyping
+    aztyping
+Shizudai
+    livecampus
+    shizudai
+    opac
+    risyu
+    readme
+Yahoo
+    weather
+    transport
+prog
+    atcoder
+    atcoderproblems
+    algo
+    github
+microsoft
+    onedrive
+    teams
