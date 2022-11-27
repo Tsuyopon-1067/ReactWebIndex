@@ -1,6 +1,6 @@
 import * as React from 'react'
 import './App.css';
-import IconList from './IconList.js';
+import IconList from './IconList/IconList.js';
 // 1. import `ChakraProvider` component
 import {
   ChakraProvider,

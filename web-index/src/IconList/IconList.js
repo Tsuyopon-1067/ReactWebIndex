@@ -1,27 +1,8 @@
 import React from 'react';
 import {
     ChakraProvider,
-    Image
+    Text
 } from '@chakra-ui/react';
-import IconButton from './IconButton.js';
-import ImgGoogle from './img/google.png';
-import ImgGmail from './img/Gmail.png';
-import ImgGmap from './img/Gmap.png';
-import ImgYoutube from './img/youtube.png';
-import ImgTwitter from './img/twitter.png';
-import ImgInsta from './img/instagram.png';
-import ImgPhoto from './img/Gphoto.png';
-import ImgAmazon from './img/amazon.png';
-import ImgDrive from './img/Gdrive.png';
-import ImgDeepL from './img/deepl.png';
-import ImgGtranslate from './img/Gtranslate.png';
-import ImgGkeep from './img/Gkeep.png';
-import ImgGakujo from './img/gakujo.png';
-import ImgShizudai from './img/shizu.png';
-import ImgOpac from './img/opac.png';
-import ImgEtyping from './img/etyping.png';
-import ImgMytyping from './img/mytyping.png';
-import ImgSushida from './img/sushida.png';
 // import ImgYweather from './img/Yweather.png';
 // import ImgYtrans from './img/Ytrans.png';
 // import ImgEntetsu from './img/entetsu.png';
@@ -32,6 +13,28 @@ import ImgSushida from './img/sushida.png';
 // import ImgOnedrive from './img/onedrive.png';
 // import ImgTeams from './img/teams.png';
 // import ImgGithub from './img/github.png';
+import {
+    IconButton,
+    ImgGoogle,
+    ImgGmail,
+    ImgGmap,
+    ImgYoutube,
+    ImgTwitter,
+    ImgInsta,
+    ImgPhoto,
+    ImgAmazon,
+    ImgDrive,
+    ImgDeepL,
+    ImgGtranslate,
+    ImgGkeep,
+    ImgGakujo,
+    ImgShizudai,
+    ImgOpac,
+    ImgEtyping,
+    ImgMytyping,
+    ImgSushida
+} from './Icons.js';
+import { icons } from 'react-icons';
 
 
 
